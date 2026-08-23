@@ -345,7 +345,7 @@
                          "date":  "2026-08-23"
                      }
                  ],
-    "claims":  [
+    "claims": [ {"profile":"hyiki","by":"account-2","until":"2026-08-24T22:22","note":"меблі на замовлення Хмельницький ID10BTVV репо khmelnytskyi-mebl\"},
                    {
                        "profile":  "AD:IDX0SjQ",
                        "by":  "account-1-pc1",
@@ -397,3 +397,4 @@
                      }
                  ]
 }
+
