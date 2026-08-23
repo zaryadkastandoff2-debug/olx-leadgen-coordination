@@ -327,6 +327,14 @@
       "ad": "ID10YGJW",
       "account": "agent-pc2",
       "date": "2026-08-23"
+    },
+    {
+      "profile": "avMPu",
+      "repo": "mangal-avMPu",
+      "niche": "мангал",
+      "ad": "ID110fHK",
+      "account": "agent-pc2",
+      "date": "2026-08-23"
     }
   ],
   "claims": [
@@ -335,12 +343,6 @@
       "by": "account-1-pc1",
       "until": "2026-08-25T23:59",
       "note": "меблі з акрилового каменю для ванни (MARSAN), профіль прихований, репо akrylovyi-kamin, отправка с аккаунта 2"
-    },
-    {
-      "profile": "avMPu",
-      "by": "agent-pc2",
-      "until": "2026-08-25T23:59",
-      "note": "мангал на замовлення ID110fHK репо mangal-avMPu"
     },
     {
       "profile": "2nSzc",
