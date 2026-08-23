@@ -307,6 +307,36 @@
                        "by":  "account-1-pc1",
                        "until":  "2026-08-25T23:59",
                        "note":  "дерево+епоксидна смола: столики/годинники/полиці, ад IDZozj6, репо derevo-smola"
+                   },
+                   {
+                       "profile":  "1UPnD",
+                       "by":  "agent-pc2",
+                       "until":  "2026-08-25T23:59",
+                       "note":  "ковані вироби декор IDYa1Ea репо kovani-dekor-1UPnD"
+                   },
+                   {
+                       "profile":  "U4Cws",
+                       "by":  "agent-pc2",
+                       "until":  "2026-08-25T23:59",
+                       "note":  "садові лавки ковані ID10qPUH репо sadovi-lavky-U4Cws"
+                   },
+                   {
+                       "profile":  "13Yizg",
+                       "by":  "agent-pc2",
+                       "until":  "2026-08-25T23:59",
+                       "note":  "гвинтові сходи дуб ID10YGJW репо gvyntovi-skhody-13Yizg"
+                   },
+                   {
+                       "profile":  "avMPu",
+                       "by":  "agent-pc2",
+                       "until":  "2026-08-25T23:59",
+                       "note":  "мангал на замовлення ID110fHK репо mangal-avMPu"
+                   },
+                   {
+                       "profile":  "2nSzc",
+                       "by":  "agent-pc2",
+                       "until":  "2026-08-25T23:59",
+                       "note":  "мангал метал ID112j1C репо mangal-metal-2nSzc"
                    }
                ],
     "rejected":  [
