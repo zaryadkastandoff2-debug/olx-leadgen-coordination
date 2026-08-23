@@ -256,23 +256,24 @@
    "account": "account-2",
    "date": "2026-08-23"
   },
-  {
+   {
    "profile": "3HasG",
    "repo": "miaki-vikna",
    "niche": "м'які вікна ПВХ, тенти",
    "ad": "IDZ5rDu",
    "account": "account-2",
    "date": "2026-08-23"
-  }
- ],
- "claims": [
+  },
   {
    "profile": "31sA",
-   "by": "agent-pc2",
-   "until": "2026-08-24T23:59",
-   "note": "столярна майстерня меблі з масиву Київ, ад IDKyzFQ, репо kyiv-stolyarnya-masyv"
+   "repo": "kyiv-stolyarnya-masyv",
+   "niche": "меблі з масиву Київ",
+   "ad": "IDKyzFQ",
+   "account": "agent-pc2",
+   "date": "2026-08-23"
   }
  ],
+ "claims": [],
  "rejected": [
   {
    "profile": "HBH9",
