@@ -311,6 +311,14 @@
       "ad": "IDYa1Ea",
       "account": "agent-pc2",
       "date": "2026-08-23"
+    },
+    {
+      "profile": "U4Cws",
+      "repo": "sadovi-lavky-U4Cws",
+      "niche": "садові лавки",
+      "ad": "ID10qPUH",
+      "account": "agent-pc2",
+      "date": "2026-08-23"
     }
   ],
   "claims": [
@@ -319,12 +327,6 @@
       "by": "account-1-pc1",
       "until": "2026-08-25T23:59",
       "note": "меблі з акрилового каменю для ванни (MARSAN), профіль прихований, репо akrylovyi-kamin, отправка с аккаунта 2"
-    },
-    {
-      "profile": "U4Cws",
-      "by": "agent-pc2",
-      "until": "2026-08-25T23:59",
-      "note": "садові лавки ковані ID10qPUH репо sadovi-lavky-U4Cws"
     },
     {
       "profile": "13Yizg",
