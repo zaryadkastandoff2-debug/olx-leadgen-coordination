@@ -351,6 +351,36 @@
       "by": "account-1-pc1",
       "until": "2026-08-25T23:59",
       "note": "меблі з акрилового каменю для ванни (MARSAN), профіль прихований, репо akrylovyi-kamin, отправка с аккаунта 2"
+    },
+    {
+      "profile": "2hpEru",
+      "by": "agent-pc2",
+      "until": "2026-08-25T23:59",
+      "note": "ворота огорожі паркани ID112fk1 репо vorota-parkan-2hpEru"
+    },
+    {
+      "profile": "2zgB0",
+      "by": "agent-pc2",
+      "until": "2026-08-25T23:59",
+      "note": "дубові столи ID115wMB репо dubovi-stoly-2zgB0"
+    },
+    {
+      "profile": "1Suah",
+      "by": "agent-pc2",
+      "until": "2026-08-25T23:59",
+      "note": "меблі будь-якого стилю IDVNc1L репо mebli-styl-1Suah"
+    },
+    {
+      "profile": "18R4WX",
+      "by": "agent-pc2",
+      "until": "2026-08-25T23:59",
+      "note": "корпусні меблі Софіївка IDZq4Sr репо korpusni-18R4WX"
+    },
+    {
+      "profile": "1F8Rb",
+      "by": "agent-pc2",
+      "until": "2026-08-25T23:59",
+      "note": "секційна огорожа IDQs3Yj репо sektsiya-1F8Rb"
     }
   ],
   "rejected": [
