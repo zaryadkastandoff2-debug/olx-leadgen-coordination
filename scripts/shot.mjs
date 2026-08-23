@@ -31,9 +31,39 @@ for (let i = 0; i < 40; i++) {
   const r = await send('Runtime.evaluate', { expression: 'document.readyState' });
   if (r?.result?.value === 'complete') break;
 }
-await sleep(3000);
-await send('Runtime.evaluate', { expression: `window.scrollTo(0, document.body.scrollHeight/2)` });
+await sleep(2500);
+// Полная прокрутка страницы: срабатывают reveal-анимации и ленивые картинки.
+const pageH = (await send('Runtime.evaluate', { expression: 'document.body.scrollHeight' }))?.result?.value || 5000;
+for (let y = 0; y <= pageH; y += 700) {
+  await send('Runtime.evaluate', { expression: `window.scrollTo(0, ${y})` });
+  await sleep(350);
+}
+await sleep(800);
+// Все lazy-картинки в eager и ожидание полной загрузки.
+await send('Runtime.evaluate', {
+  expression: `(async () => {
+    document.querySelectorAll('img[loading="lazy"]').forEach(i => i.loading = 'eager');
+    await Promise.all([...document.images].map(img => img.complete ? 1 : new Promise(r => { img.onload = r; img.onerror = r; })));
+    return [...document.images].filter(i => i.complete && i.naturalWidth > 0).length + '/' + document.images.length;
+  })()`,
+  awaitPromise: true,
+  timeout: 30000,
+});
 await sleep(1200);
+// Форсировать финальное состояние анимаций: иначе при captureBeyondViewport
+// секции с .reveal снимаются в начале транзишена (пустые).
+await send('Runtime.evaluate', {
+  expression: `(() => {
+    const s = document.createElement('style');
+    s.textContent = '*{transition:none!important;animation:none!important;animation-duration:0s!important}'
+      + '[class*="reveal"],[class*="fade"],[data-reveal]{opacity:1!important;transform:none!important}';
+    document.head.appendChild(s);
+    document.querySelectorAll('.reveal,[data-reveal]').forEach(e => e.classList.add('in','visible','shown'));
+    window.scrollTo(0, 0);
+    return 'forced';
+  })()`,
+});
+await sleep(600);
 const shot = await send('Page.captureScreenshot', { format: 'jpeg', quality: 82, captureBeyondViewport: true });
 if (!shot?.data) throw new Error('no screenshot data');
 writeFileSync(out, Buffer.from(shot.data, 'base64'));
