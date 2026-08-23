@@ -256,7 +256,7 @@
    "account": "account-2",
    "date": "2026-08-23"
   },
-   {
+  {
    "profile": "3HasG",
    "repo": "miaki-vikna",
    "niche": "м'які вікна ПВХ, тенти",
@@ -285,6 +285,12 @@
    "by": "agent-pc2",
    "until": "2026-08-24T23:59",
    "note": "корпусні меблі на замовлення, ад ID112ZM8, репо kyiv-korpusni-mebli"
+  },
+  {
+   "profile": "AD:IDX0SjQ",
+   "by": "account-1-pc1",
+   "until": "2026-08-25T23:59",
+   "note": "меблі з акрилового каменю для ванни (MARSAN), профіль прихований, репо akrylovyi-kamin, отправка с аккаунта 2"
   }
  ],
  "rejected": [
