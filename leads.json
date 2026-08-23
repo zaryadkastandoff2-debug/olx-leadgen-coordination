@@ -247,6 +247,14 @@
    "ad": "ID116RO6",
    "account": "account-2",
    "date": "2026-08-23"
+  },
+  {
+   "profile": "jliG4",
+   "repo": "baba-yozhka-pechi",
+   "niche": "печі Баба Йожка від виробника",
+   "ad": "IDEiQcC",
+   "account": "account-2",
+   "date": "2026-08-23"
   }
  ],
  "claims": [
@@ -255,12 +263,6 @@
    "by": "agent-pc2",
    "until": "2026-08-24T23:59",
    "note": "столярна майстерня меблі з масиву Київ, ад IDKyzFQ, репо kyiv-stolyarnya-masyv"
-  },
-  {
-   "profile": "jliG4",
-   "by": "account-1-pc1",
-   "until": "2026-08-24T23:59",
-   "note": "печі Баба Йожка від виробника, ад IDEiQcC, репо baba-yozhka-pechi, отправка с аккаунта 2"
   }
  ],
  "rejected": [
