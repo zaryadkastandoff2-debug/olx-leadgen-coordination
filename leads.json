@@ -1,407 +1,407 @@
-﻿{
-    "contacts":  [
-                     {
-                         "profile":  "NCAP",
-                         "repo":  "kryvyi-kuhni",
-                         "niche":  "Р С”РЎС“РЎвЂ¦Р Р…РЎвЂ“ Р С™РЎР‚Р С‘Р Р†Р С‘Р в„– Р В РЎвЂ“Р С–",
-                         "ad":  "IDYIrWd",
-                         "account":  "account-1",
-                         "date":  "2026-08-22"
-                     },
-                     {
-                         "profile":  "16qVJ4",
-                         "repo":  "brovary-zvar",
-                         "niche":  "Р В·Р Р†Р В°РЎР‚РЎР‹Р Р†Р В°Р Р…Р Р…РЎРЏ Р вЂРЎР‚Р С•Р Р†Р В°РЎР‚Р С‘",
-                         "ad":  "IDYYfZI",
-                         "account":  "account-1",
-                         "date":  "2026-08-22"
-                     },
-                     {
-                         "profile":  "uzkjr",
-                         "repo":  "dnipro-shafy",
-                         "niche":  "РЎв‚¬Р В°РЎвЂћР С‘-Р С”РЎС“Р С—Р Вµ Р вЂќР Р…РЎвЂ“Р С—РЎР‚Р С•",
-                         "ad":  "IDXlhKW",
-                         "account":  "account-1",
-                         "date":  "2026-08-22"
-                     },
-                     {
-                         "profile":  "EJJgP",
-                         "repo":  "yaroslav-derevo",
-                         "niche":  "Р Р†Р С‘РЎР‚Р С•Р В±Р С‘ Р В· Р Т‘Р ВµРЎР‚Р ВµР Р†Р В°",
-                         "ad":  "ID10KTFU",
-                         "account":  "account-1",
-                         "date":  "2026-08-22"
-                     },
-                     {
-                         "profile":  "3XUpk",
-                         "repo":  "chernivtsi-vorota",
-                         "niche":  "Р Р†Р С•РЎР‚Р С•РЎвЂљР В° Р В§Р ВµРЎР‚Р Р…РЎвЂ“Р Р†РЎвЂ РЎвЂ“",
-                         "ad":  "IDXvfCP",
-                         "account":  "account-1",
-                         "date":  "2026-08-22"
-                     },
-                     {
-                         "profile":  "1McKT",
-                         "repo":  "kyiv-akvariumy",
-                         "niche":  "Р В°Р С”Р Р†Р В°РЎР‚РЎвЂ“РЎС“Р СР С‘ Р С™Р С‘РЎвЂ”Р Р†",
-                         "ad":  "ID116JBT",
-                         "account":  "account-1",
-                         "date":  "2026-08-22"
-                     },
-                     {
-                         "profile":  "13N1bf",
-                         "repo":  "kharkiv-divany",
-                         "niche":  "Р Т‘Р С‘Р Р†Р В°Р Р…Р С‘ Р ТђР В°РЎР‚Р С”РЎвЂ“Р Р†",
-                         "ad":  "ID10yZ6D",
-                         "account":  "account-1",
-                         "date":  "2026-08-22"
-                     },
-                     {
-                         "profile":  "2dNHco",
-                         "repo":  "zaporizhzhia-torty",
-                         "niche":  "РЎвЂљР С•РЎР‚РЎвЂљР С‘ Р вЂ”Р В°Р С—Р С•РЎР‚РЎвЂ“Р В¶Р В¶РЎРЏ",
-                         "ad":  "",
-                         "account":  "account-1",
-                         "date":  "2026-08-22"
-                     },
-                     {
-                         "profile":  "1cW3np",
-                         "repo":  "kyiv-skhody",
-                         "niche":  "РЎРѓРЎвЂ¦Р С•Р Т‘Р С‘ Р С™Р С‘РЎвЂ”Р Р†",
-                         "ad":  "IDTiHQo",
-                         "account":  "account-1",
-                         "date":  "2026-08-22"
-                     },
-                     {
-                         "profile":  "gev8x",
-                         "repo":  "rivne-granit",
-                         "niche":  "Р С–РЎР‚Р В°Р Р…РЎвЂ“РЎвЂљ Р В РЎвЂ“Р Р†Р Р…Р Вµ",
-                         "ad":  "",
-                         "account":  "account-1",
-                         "date":  "2026-08-22"
-                     },
-                     {
-                         "profile":  "2hkS0M",
-                         "repo":  "mukachevo-kovka",
-                         "niche":  "Р С”Р С•Р Р†Р С”Р В° Р СљРЎС“Р С”Р В°РЎвЂЎР ВµР Р†Р С•",
-                         "ad":  "",
-                         "account":  "account-1",
-                         "date":  "2026-08-22"
-                     },
-                     {
-                         "profile":  "bQHRS",
-                         "repo":  "kyiv-stolyarka",
-                         "niche":  "РЎРѓРЎвЂљР С•Р В»РЎРЏРЎР‚Р С”Р В° Р С™Р С‘РЎвЂ”Р Р†",
-                         "ad":  "ID10KTFU",
-                         "account":  "account-1",
-                         "date":  "2026-08-22"
-                     },
-                     {
-                         "profile":  "farman",
-                         "repo":  "farman-loft",
-                         "niche":  "Р В»Р С•РЎвЂћРЎвЂљ-Р СР ВµР В±Р В»РЎвЂ“",
-                         "ad":  "",
-                         "account":  "account-1",
-                         "date":  "2026-08-21"
-                     },
-                     {
-                         "profile":  "oYFvT",
-                         "repo":  "khmelnytskyi-pechi",
-                         "niche":  "Р С—Р ВµРЎвЂЎРЎвЂ“ Р ТђР СР ВµР В»РЎРЉР Р…Р С‘РЎвЂ РЎРЉР С”Р С‘Р в„–",
-                         "ad":  "ID100gUR",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "iRml",
-                         "repo":  "obukhiv-chany",
-                         "niche":  "РЎвЂЎР В°Р Р…Р С‘ Р С›Р В±РЎС“РЎвЂ¦РЎвЂ“Р Р†",
-                         "ad":  "IDX64Jv",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "2hmsS",
-                         "repo":  "odesa-plitka",
-                         "niche":  "Р С—Р В»Р С‘РЎвЂљР С”Р В° Р С›Р Т‘Р ВµРЎРѓР В°",
-                         "ad":  "IDSpMI7",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "Jfcnn",
-                         "repo":  "ternopil-paneli",
-                         "niche":  "Р С—Р В°Р Р…Р ВµР В»РЎвЂ“ Р СћР ВµРЎР‚Р Р…Р С•Р С—РЎвЂ“Р В»РЎРЉ",
-                         "ad":  "ID1131zB",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "mSzay",
-                         "repo":  "rivne-altanky",
-                         "niche":  "Р В°Р В»РЎРЉРЎвЂљР В°Р Р…Р С”Р С‘ Р В РЎвЂ“Р Р†Р Р…Р Вµ",
-                         "ad":  "IDZV8as",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "Xn9l",
-                         "repo":  "samar-plitka",
-                         "niche":  "Р С—Р В»Р С‘РЎвЂљР С”Р В° Р РЋР В°Р СР В°РЎР‚",
-                         "ad":  "ID10HrA9",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "Le7jD",
-                         "repo":  "zhytomyr-rolety",
-                         "niche":  "РЎР‚Р С•Р В»Р ВµРЎвЂљР С‘ Р вЂ“Р С‘РЎвЂљР С•Р СР С‘РЎР‚ (Р С•РЎвЂљР С”Р В°Р В·, Р ВµРЎРѓРЎвЂљРЎРЉ РЎРѓР В°Р в„–РЎвЂљ)",
-                         "ad":  "IDXnVWk",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "8f2H",
-                         "repo":  "sumy-kupeli",
-                         "niche":  "Р С”РЎС“Р С—Р ВµР В»РЎвЂ“ Р РЋРЎС“Р СР С‘",
-                         "ad":  "IDPbZjn",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "7l7jQ",
-                         "repo":  "zhytomyr-laznya",
-                         "niche":  "Р В»Р В°Р В·Р Р…РЎвЂ“ Р вЂ“Р С‘РЎвЂљР С•Р СР С‘РЎР‚",
-                         "ad":  "IDR1Q4K",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "iDeWu",
-                         "repo":  "boryspil-steli",
-                         "niche":  "Р Р…Р В°РЎвЂљРЎРЏР В¶Р Р…РЎвЂ“ РЎРѓРЎвЂљР ВµР В»РЎвЂ“ Р вЂР С•РЎР‚Р С‘РЎРѓР С—РЎвЂ“Р В»РЎРЉ",
-                         "ad":  "ID10Zvpg",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "DC6x",
-                         "repo":  "lviv-pobutky",
-                         "niche":  "Р С—Р С•Р В±РЎС“РЎвЂљРЎвЂ“Р Р†Р С”Р С‘ Р вЂєРЎРЉР Р†РЎвЂ“Р Р†",
-                         "ad":  "IDYpkr9",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "2htqLL",
-                         "repo":  "dereviani-dveri",
-                         "niche":  "Р Т‘Р Р†Р ВµРЎР‚РЎвЂ“ Р Т‘Р ВµРЎР‚Р ВµР Р†\u0027РЎРЏР Р…РЎвЂ“",
-                         "ad":  "IDZ38s8",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "2gvOo5",
-                         "repo":  "kot-balkonchyky",
-                         "niche":  "Р В±Р В°Р В»Р С”Р С•Р Р…РЎвЂЎР С‘Р С”Р С‘ Р Т‘Р В»РЎРЏ Р С”Р С•РЎвЂљРЎвЂ“Р Р†",
-                         "ad":  "ID10V9h8",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "ECxqc",
-                         "repo":  "uzhhorod-bani",
-                         "niche":  "Р В±Р В°Р Р…РЎвЂ“ Р Р€Р В¶Р С–Р С•РЎР‚Р С•Р Т‘",
-                         "ad":  "IDVIqKi",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "WSDEh",
-                         "repo":  "mykulychyn-altanky",
-                         "niche":  "Р В°Р В»РЎРЉРЎвЂљР В°Р Р…Р С”Р С‘ Р СљР С‘Р С”РЎС“Р В»Р С‘РЎвЂЎР С‘Р Р…",
-                         "ad":  "ID113akA",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "d7nJu",
-                         "repo":  "vynnyky-budynky",
-                         "niche":  "Р В±РЎС“Р Т‘Р С‘Р Р…Р С”Р С‘ Р вЂ™Р С‘Р Р…Р Р…Р С‘Р С”Р С‘",
-                         "ad":  "IDVFrBY",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "3oFnS",
-                         "repo":  "kremenchuk-vulyky",
-                         "niche":  "Р Р†РЎС“Р В»Р С‘Р С”Р С‘ Р С™РЎР‚Р ВµР СР ВµР Р…РЎвЂЎРЎС“Р С”",
-                         "ad":  "IDTNxzj",
-                         "account":  "account-1",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "13L8TX",
-                         "repo":  "dnipro-peretyazhka",
-                         "niche":  "Р С—Р ВµРЎР‚Р ВµРЎвЂљРЎРЏР В¶Р С”Р В° Р В±\u0027РЎР‹РЎвЂљРЎвЂ“-Р СР ВµР В±Р В»РЎвЂ“Р Р† Р вЂќР Р…РЎвЂ“Р С—РЎР‚Р С•",
-                         "ad":  "ID116RO6",
-                         "account":  "account-2",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "jliG4",
-                         "repo":  "baba-yozhka-pechi",
-                         "niche":  "Р С—Р ВµРЎвЂЎРЎвЂ“ Р вЂР В°Р В±Р В° Р в„ўР С•Р В¶Р С”Р В° Р Р†РЎвЂ“Р Т‘ Р Р†Р С‘РЎР‚Р С•Р В±Р Р…Р С‘Р С”Р В°",
-                         "ad":  "IDEiQcC",
-                         "account":  "account-2",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "3HasG",
-                         "repo":  "miaki-vikna",
-                         "niche":  "Р С\u0027РЎРЏР С”РЎвЂ“ Р Р†РЎвЂ“Р С”Р Р…Р В° Р СџР вЂ™Р Тђ, РЎвЂљР ВµР Р…РЎвЂљР С‘",
-                         "ad":  "IDZ5rDu",
-                         "account":  "account-2",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "31sA",
-                         "repo":  "kyiv-stolyarnya-masyv",
-                         "niche":  "Р СР ВµР В±Р В»РЎвЂ“ Р В· Р СР В°РЎРѓР С‘Р Р†РЎС“ Р С™Р С‘РЎвЂ”Р Р†",
-                         "ad":  "IDKyzFQ",
-                         "account":  "agent-pc2",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "1JmxL0",
-                         "repo":  "kyiv-mebli-nat-derevyny",
-                         "niche":  "РјРµР±Р»С– Р· РЅР°С‚ РґРµСЂРµРІРёРЅРё",
-                         "ad":  "ID10ZQaQ",
-                         "account":  "agent-pc2",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "2bG60j",
-                         "repo":  "kyiv-korpusni-mebli",
-                         "niche":  "РєРѕСЂРїСѓСЃРЅС– РјРµР±Р»С–",
-                         "ad":  "ID112ZM8",
-                         "account":  "agent-pc2",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "a79Y",
-                         "repo":  "shkira-viroby",
-                         "niche":  "РІРёСЂРѕР±Рё Р·С– С€РєС–СЂРё РЅР° Р·Р°РјРѕРІР»РµРЅРЅСЏ",
-                         "ad":  "IDZHYyY",
-                         "account":  "account-2",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "1fuR4i",
-                         "repo":  "derevo-smola",
-                         "niche":  "РІРёСЂРѕР±Рё Р· РґРµСЂРµРІР° Р· РµРїРѕРєСЃРёРґРЅРѕСЋ СЃРјРѕР»РѕСЋ",
-                         "ad":  "IDZozj6",
-                         "account":  "account-2",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "1UPnD",
-                         "repo":  "kovani-dekor-1UPnD",
-                         "niche":  "РєРѕРІР°РЅС– РІРёСЂРѕР±Рё",
-                         "ad":  "IDYa1Ea",
-                         "account":  "agent-pc2",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "U4Cws",
-                         "repo":  "sadovi-lavky-U4Cws",
-                         "niche":  "СЃР°РґРѕРІС– Р»Р°РІРєРё",
-                         "ad":  "ID10qPUH",
-                         "account":  "agent-pc2",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "13Yizg",
-                         "repo":  "gvyntovi-skhody-13Yizg",
-                         "niche":  "РіРІРёРЅС‚РѕРІС– СЃС…РѕРґРё РґСѓР±",
-                         "ad":  "ID10YGJW",
-                         "account":  "agent-pc2",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "avMPu",
-                         "repo":  "mangal-avMPu",
-                         "niche":  "РјР°РЅРіР°Р»",
-                         "ad":  "ID110fHK",
-                         "account":  "agent-pc2",
-                         "date":  "2026-08-23"
-                     },
-                     {
-                         "profile":  "2nSzc",
-                         "repo":  "mangal-metal-2nSzc",
-                         "niche":  "РјР°РЅРіР°Р» РјРµС‚Р°Р»",
-                         "ad":  "ID112j1C",
-                         "account":  "agent-pc2",
-                         "date":  "2026-08-23"
-                     }
-                 ],
-    "claims":  [
-                    {
-                        "profile":  "hyiki",
-                        "by":  "account-2",
-                        "until":  "2026-08-24T22:22",
-                        "note":  "меблі на замовлення Хмельницький ID10BTVV репо khmelnytskyi-mebl"
-                    },
-
-                   {
-                       "profile":  "AD:IDX0SjQ",
-                       "by":  "account-1-pc1",
-                       "until":  "2026-08-25T23:59",
-                       "note":  "РјРµР±Р»С– Р· Р°РєСЂРёР»РѕРІРѕРіРѕ РєР°РјРµРЅСЋ РґР»СЏ РІР°РЅРЅРё (MARSAN), РїСЂРѕС„С–Р»СЊ РїСЂРёС…РѕРІР°РЅРёР№, СЂРµРїРѕ akrylovyi-kamin, РѕС‚РїСЂР°РІРєР° СЃ Р°РєРєР°СѓРЅС‚Р° 2"
-                   },
-                   {
-                       "profile":  "2hpEru",
-                       "by":  "agent-pc2",
-                       "until":  "2026-08-25T23:59",
-                       "note":  "РІРѕСЂРѕС‚Р° РѕРіРѕСЂРѕР¶С– РїР°СЂРєР°РЅРё ID112fk1 СЂРµРїРѕ vorota-parkan-2hpEru"
-                   },
-                   {
-                       "profile":  "2zgB0",
-                       "by":  "agent-pc2",
-                       "until":  "2026-08-25T23:59",
-                       "note":  "РґСѓР±РѕРІС– СЃС‚РѕР»Рё ID115wMB СЂРµРїРѕ dubovi-stoly-2zgB0"
-                   },
-                   {
-                       "profile":  "1Suah",
-                       "by":  "agent-pc2",
-                       "until":  "2026-08-25T23:59",
-                       "note":  "РјРµР±Р»С– Р±СѓРґСЊ-СЏРєРѕРіРѕ СЃС‚РёР»СЋ IDVNc1L СЂРµРїРѕ mebli-styl-1Suah"
-                   },
-                   {
-                       "profile":  "18R4WX",
-                       "by":  "agent-pc2",
-                       "until":  "2026-08-25T23:59",
-                       "note":  "РєРѕСЂРїСѓСЃРЅС– РјРµР±Р»С– РЎРѕС„С–С—РІРєР° IDZq4Sr СЂРµРїРѕ korpusni-18R4WX"
-                   },
-                   {
-                       "profile":  "1F8Rb",
-                       "by":  "agent-pc2",
-                       "until":  "2026-08-25T23:59",
-                       "note":  "СЃРµРєС†С–Р№РЅР° РѕРіРѕСЂРѕР¶Р° IDQs3Yj СЂРµРїРѕ sektsiya-1F8Rb"
-                   },
-                   {
-                       "profile":  "JBSnB",
-                       "by":  "account-2",
-                       "until":  "2026-08-24T23:59",
-                       "note":  "садові гойдалки-люльки ID1155ti репо goydalky-JBSnB"
-                   }
-               ],
-    "rejected":  [
-                     {
-                         "profile":  "HBH9",
-                         "reason":  "instagram (shveja_v_dnipri) РІ РѕРїРёСЃС– РѕРіРѕР»РѕС€РµРЅРЅСЏ ID107Plm",
-                         "date":  "2026-08-23"
-                     }
-                 ]
+{
+    "contacts": [
+        {
+            "profile": "NCAP",
+            "repo": "kryvyi-kuhni",
+            "niche": "Р С”РЎС“РЎвЂ¦Р Р…РЎвЂ“ Р С™РЎР‚Р С‘Р Р†Р С‘Р в„– Р В РЎвЂ“Р С–",
+            "ad": "IDYIrWd",
+            "account": "account-1",
+            "date": "2026-08-22"
+        },
+        {
+            "profile": "16qVJ4",
+            "repo": "brovary-zvar",
+            "niche": "Р В·Р Р†Р В°РЎР‚РЎР‹Р Р†Р В°Р Р…Р Р…РЎРЏ Р вЂРЎР‚Р С•Р Р†Р В°РЎР‚Р С‘",
+            "ad": "IDYYfZI",
+            "account": "account-1",
+            "date": "2026-08-22"
+        },
+        {
+            "profile": "uzkjr",
+            "repo": "dnipro-shafy",
+            "niche": "РЎв‚¬Р В°РЎвЂћР С‘-Р С”РЎС“Р С—Р Вµ Р вЂќР Р…РЎвЂ“Р С—РЎР‚Р С•",
+            "ad": "IDXlhKW",
+            "account": "account-1",
+            "date": "2026-08-22"
+        },
+        {
+            "profile": "EJJgP",
+            "repo": "yaroslav-derevo",
+            "niche": "Р Р†Р С‘РЎР‚Р С•Р В±Р С‘ Р В· Р Т‘Р ВµРЎР‚Р ВµР Р†Р В°",
+            "ad": "ID10KTFU",
+            "account": "account-1",
+            "date": "2026-08-22"
+        },
+        {
+            "profile": "3XUpk",
+            "repo": "chernivtsi-vorota",
+            "niche": "Р Р†Р С•РЎР‚Р С•РЎвЂљР В° Р В§Р ВµРЎР‚Р Р…РЎвЂ“Р Р†РЎвЂ РЎвЂ“",
+            "ad": "IDXvfCP",
+            "account": "account-1",
+            "date": "2026-08-22"
+        },
+        {
+            "profile": "1McKT",
+            "repo": "kyiv-akvariumy",
+            "niche": "Р В°Р С”Р Р†Р В°РЎР‚РЎвЂ“РЎС“Р СР С‘ Р С™Р С‘РЎвЂ”Р Р†",
+            "ad": "ID116JBT",
+            "account": "account-1",
+            "date": "2026-08-22"
+        },
+        {
+            "profile": "13N1bf",
+            "repo": "kharkiv-divany",
+            "niche": "Р Т‘Р С‘Р Р†Р В°Р Р…Р С‘ Р ТђР В°РЎР‚Р С”РЎвЂ“Р Р†",
+            "ad": "ID10yZ6D",
+            "account": "account-1",
+            "date": "2026-08-22"
+        },
+        {
+            "profile": "2dNHco",
+            "repo": "zaporizhzhia-torty",
+            "niche": "РЎвЂљР С•РЎР‚РЎвЂљР С‘ Р вЂ”Р В°Р С—Р С•РЎР‚РЎвЂ“Р В¶Р В¶РЎРЏ",
+            "ad": "",
+            "account": "account-1",
+            "date": "2026-08-22"
+        },
+        {
+            "profile": "1cW3np",
+            "repo": "kyiv-skhody",
+            "niche": "РЎРѓРЎвЂ¦Р С•Р Т‘Р С‘ Р С™Р С‘РЎвЂ”Р Р†",
+            "ad": "IDTiHQo",
+            "account": "account-1",
+            "date": "2026-08-22"
+        },
+        {
+            "profile": "gev8x",
+            "repo": "rivne-granit",
+            "niche": "Р С–РЎР‚Р В°Р Р…РЎвЂ“РЎвЂљ Р В РЎвЂ“Р Р†Р Р…Р Вµ",
+            "ad": "",
+            "account": "account-1",
+            "date": "2026-08-22"
+        },
+        {
+            "profile": "2hkS0M",
+            "repo": "mukachevo-kovka",
+            "niche": "Р С”Р С•Р Р†Р С”Р В° Р СљРЎС“Р С”Р В°РЎвЂЎР ВµР Р†Р С•",
+            "ad": "",
+            "account": "account-1",
+            "date": "2026-08-22"
+        },
+        {
+            "profile": "bQHRS",
+            "repo": "kyiv-stolyarka",
+            "niche": "РЎРѓРЎвЂљР С•Р В»РЎРЏРЎР‚Р С”Р В° Р С™Р С‘РЎвЂ”Р Р†",
+            "ad": "ID10KTFU",
+            "account": "account-1",
+            "date": "2026-08-22"
+        },
+        {
+            "profile": "farman",
+            "repo": "farman-loft",
+            "niche": "Р В»Р С•РЎвЂћРЎвЂљ-Р СР ВµР В±Р В»РЎвЂ“",
+            "ad": "",
+            "account": "account-1",
+            "date": "2026-08-21"
+        },
+        {
+            "profile": "oYFvT",
+            "repo": "khmelnytskyi-pechi",
+            "niche": "Р С—Р ВµРЎвЂЎРЎвЂ“ Р ТђР СР ВµР В»РЎРЉР Р…Р С‘РЎвЂ РЎРЉР С”Р С‘Р в„–",
+            "ad": "ID100gUR",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "iRml",
+            "repo": "obukhiv-chany",
+            "niche": "РЎвЂЎР В°Р Р…Р С‘ Р С›Р В±РЎС“РЎвЂ¦РЎвЂ“Р Р†",
+            "ad": "IDX64Jv",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "2hmsS",
+            "repo": "odesa-plitka",
+            "niche": "Р С—Р В»Р С‘РЎвЂљР С”Р В° Р С›Р Т‘Р ВµРЎРѓР В°",
+            "ad": "IDSpMI7",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "Jfcnn",
+            "repo": "ternopil-paneli",
+            "niche": "Р С—Р В°Р Р…Р ВµР В»РЎвЂ“ Р СћР ВµРЎР‚Р Р…Р С•Р С—РЎвЂ“Р В»РЎРЉ",
+            "ad": "ID1131zB",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "mSzay",
+            "repo": "rivne-altanky",
+            "niche": "Р В°Р В»РЎРЉРЎвЂљР В°Р Р…Р С”Р С‘ Р В РЎвЂ“Р Р†Р Р…Р Вµ",
+            "ad": "IDZV8as",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "Xn9l",
+            "repo": "samar-plitka",
+            "niche": "Р С—Р В»Р С‘РЎвЂљР С”Р В° Р РЋР В°Р СР В°РЎР‚",
+            "ad": "ID10HrA9",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "Le7jD",
+            "repo": "zhytomyr-rolety",
+            "niche": "РЎР‚Р С•Р В»Р ВµРЎвЂљР С‘ Р вЂ“Р С‘РЎвЂљР С•Р СР С‘РЎР‚ (Р С•РЎвЂљР С”Р В°Р В·, Р ВµРЎРѓРЎвЂљРЎРЉ РЎРѓР В°Р в„–РЎвЂљ)",
+            "ad": "IDXnVWk",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "8f2H",
+            "repo": "sumy-kupeli",
+            "niche": "Р С”РЎС“Р С—Р ВµР В»РЎвЂ“ Р РЋРЎС“Р СР С‘",
+            "ad": "IDPbZjn",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "7l7jQ",
+            "repo": "zhytomyr-laznya",
+            "niche": "Р В»Р В°Р В·Р Р…РЎвЂ“ Р вЂ“Р С‘РЎвЂљР С•Р СР С‘РЎР‚",
+            "ad": "IDR1Q4K",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "iDeWu",
+            "repo": "boryspil-steli",
+            "niche": "Р Р…Р В°РЎвЂљРЎРЏР В¶Р Р…РЎвЂ“ РЎРѓРЎвЂљР ВµР В»РЎвЂ“ Р вЂР С•РЎР‚Р С‘РЎРѓР С—РЎвЂ“Р В»РЎРЉ",
+            "ad": "ID10Zvpg",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "DC6x",
+            "repo": "lviv-pobutky",
+            "niche": "Р С—Р С•Р В±РЎС“РЎвЂљРЎвЂ“Р Р†Р С”Р С‘ Р вЂєРЎРЉР Р†РЎвЂ“Р Р†",
+            "ad": "IDYpkr9",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "2htqLL",
+            "repo": "dereviani-dveri",
+            "niche": "Р Т‘Р Р†Р ВµРЎР‚РЎвЂ“ Р Т‘Р ВµРЎР‚Р ВµР Р†'РЎРЏР Р…РЎвЂ“",
+            "ad": "IDZ38s8",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "2gvOo5",
+            "repo": "kot-balkonchyky",
+            "niche": "Р В±Р В°Р В»Р С”Р С•Р Р…РЎвЂЎР С‘Р С”Р С‘ Р Т‘Р В»РЎРЏ Р С”Р С•РЎвЂљРЎвЂ“Р Р†",
+            "ad": "ID10V9h8",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "ECxqc",
+            "repo": "uzhhorod-bani",
+            "niche": "Р В±Р В°Р Р…РЎвЂ“ Р Р€Р В¶Р С–Р С•РЎР‚Р С•Р Т‘",
+            "ad": "IDVIqKi",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "WSDEh",
+            "repo": "mykulychyn-altanky",
+            "niche": "Р В°Р В»РЎРЉРЎвЂљР В°Р Р…Р С”Р С‘ Р СљР С‘Р С”РЎС“Р В»Р С‘РЎвЂЎР С‘Р Р…",
+            "ad": "ID113akA",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "d7nJu",
+            "repo": "vynnyky-budynky",
+            "niche": "Р В±РЎС“Р Т‘Р С‘Р Р…Р С”Р С‘ Р вЂ™Р С‘Р Р…Р Р…Р С‘Р С”Р С‘",
+            "ad": "IDVFrBY",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "3oFnS",
+            "repo": "kremenchuk-vulyky",
+            "niche": "Р Р†РЎС“Р В»Р С‘Р С”Р С‘ Р С™РЎР‚Р ВµР СР ВµР Р…РЎвЂЎРЎС“Р С”",
+            "ad": "IDTNxzj",
+            "account": "account-1",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "13L8TX",
+            "repo": "dnipro-peretyazhka",
+            "niche": "Р С—Р ВµРЎР‚Р ВµРЎвЂљРЎРЏР В¶Р С”Р В° Р В±'РЎР‹РЎвЂљРЎвЂ“-Р СР ВµР В±Р В»РЎвЂ“Р Р† Р вЂќР Р…РЎвЂ“Р С—РЎР‚Р С•",
+            "ad": "ID116RO6",
+            "account": "account-2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "jliG4",
+            "repo": "baba-yozhka-pechi",
+            "niche": "Р С—Р ВµРЎвЂЎРЎвЂ“ Р вЂР В°Р В±Р В° Р в„ўР С•Р В¶Р С”Р В° Р Р†РЎвЂ“Р Т‘ Р Р†Р С‘РЎР‚Р С•Р В±Р Р…Р С‘Р С”Р В°",
+            "ad": "IDEiQcC",
+            "account": "account-2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "3HasG",
+            "repo": "miaki-vikna",
+            "niche": "Р С'РЎРЏР С”РЎвЂ“ Р Р†РЎвЂ“Р С”Р Р…Р В° Р СџР вЂ™Р Тђ, РЎвЂљР ВµР Р…РЎвЂљР С‘",
+            "ad": "IDZ5rDu",
+            "account": "account-2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "31sA",
+            "repo": "kyiv-stolyarnya-masyv",
+            "niche": "Р СР ВµР В±Р В»РЎвЂ“ Р В· Р СР В°РЎРѓР С‘Р Р†РЎС“ Р С™Р С‘РЎвЂ”Р Р†",
+            "ad": "IDKyzFQ",
+            "account": "agent-pc2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "1JmxL0",
+            "repo": "kyiv-mebli-nat-derevyny",
+            "niche": "РјРµР±Р»С– Р· РЅР°С‚ РґРµСЂРµРІРёРЅРё",
+            "ad": "ID10ZQaQ",
+            "account": "agent-pc2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "2bG60j",
+            "repo": "kyiv-korpusni-mebli",
+            "niche": "РєРѕСЂРїСѓСЃРЅС– РјРµР±Р»С–",
+            "ad": "ID112ZM8",
+            "account": "agent-pc2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "a79Y",
+            "repo": "shkira-viroby",
+            "niche": "РІРёСЂРѕР±Рё Р·С– С€РєС–СЂРё РЅР° Р·Р°РјРѕРІР»РµРЅРЅСЏ",
+            "ad": "IDZHYyY",
+            "account": "account-2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "1fuR4i",
+            "repo": "derevo-smola",
+            "niche": "РІРёСЂРѕР±Рё Р· РґРµСЂРµРІР° Р· РµРїРѕРєСЃРёРґРЅРѕСЋ СЃРјРѕР»РѕСЋ",
+            "ad": "IDZozj6",
+            "account": "account-2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "1UPnD",
+            "repo": "kovani-dekor-1UPnD",
+            "niche": "РєРѕРІР°РЅС– РІРёСЂРѕР±Рё",
+            "ad": "IDYa1Ea",
+            "account": "agent-pc2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "U4Cws",
+            "repo": "sadovi-lavky-U4Cws",
+            "niche": "СЃР°РґРѕРІС– Р»Р°РІРєРё",
+            "ad": "ID10qPUH",
+            "account": "agent-pc2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "13Yizg",
+            "repo": "gvyntovi-skhody-13Yizg",
+            "niche": "РіРІРёРЅС‚РѕРІС– СЃС…РѕРґРё РґСѓР±",
+            "ad": "ID10YGJW",
+            "account": "agent-pc2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "avMPu",
+            "repo": "mangal-avMPu",
+            "niche": "РјР°РЅРіР°Р»",
+            "ad": "ID110fHK",
+            "account": "agent-pc2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "2nSzc",
+            "repo": "mangal-metal-2nSzc",
+            "niche": "РјР°РЅРіР°Р» РјРµС‚Р°Р»",
+            "ad": "ID112j1C",
+            "account": "agent-pc2",
+            "date": "2026-08-23"
+        },
+        {
+            "profile": "hyiki",
+            "repo": "khmelnytskyi-mebl",
+            "niche": "меблі на замовлення",
+            "ad": "ID10BTVV",
+            "account": "account-2",
+            "date": "2026-08-23"
+        }
+    ],
+    "claims": [
+        {
+            "profile": "AD:IDX0SjQ",
+            "by": "account-1-pc1",
+            "until": "2026-08-25T23:59",
+            "note": "РјРµР±Р»С– Р· Р°РєСЂРёР»РѕРІРѕРіРѕ РєР°РјРµРЅСЋ РґР»СЏ РІР°РЅРЅРё (MARSAN), РїСЂРѕС„С–Р»СЊ РїСЂРёС…РѕРІР°РЅРёР№, СЂРµРїРѕ akrylovyi-kamin, РѕС‚РїСЂР°РІРєР° СЃ Р°РєРєР°СѓРЅС‚Р° 2"
+        },
+        {
+            "profile": "2hpEru",
+            "by": "agent-pc2",
+            "until": "2026-08-25T23:59",
+            "note": "РІРѕСЂРѕС‚Р° РѕРіРѕСЂРѕР¶С– РїР°СЂРєР°РЅРё ID112fk1 СЂРµРїРѕ vorota-parkan-2hpEru"
+        },
+        {
+            "profile": "2zgB0",
+            "by": "agent-pc2",
+            "until": "2026-08-25T23:59",
+            "note": "РґСѓР±РѕРІС– СЃС‚РѕР»Рё ID115wMB СЂРµРїРѕ dubovi-stoly-2zgB0"
+        },
+        {
+            "profile": "1Suah",
+            "by": "agent-pc2",
+            "until": "2026-08-25T23:59",
+            "note": "РјРµР±Р»С– Р±СѓРґСЊ-СЏРєРѕРіРѕ СЃС‚РёР»СЋ IDVNc1L СЂРµРїРѕ mebli-styl-1Suah"
+        },
+        {
+            "profile": "18R4WX",
+            "by": "agent-pc2",
+            "until": "2026-08-25T23:59",
+            "note": "РєРѕСЂРїСѓСЃРЅС– РјРµР±Р»С– РЎРѕС„С–С—РІРєР° IDZq4Sr СЂРµРїРѕ korpusni-18R4WX"
+        },
+        {
+            "profile": "1F8Rb",
+            "by": "agent-pc2",
+            "until": "2026-08-25T23:59",
+            "note": "СЃРµРєС†С–Р№РЅР° РѕРіРѕСЂРѕР¶Р° IDQs3Yj СЂРµРїРѕ sektsiya-1F8Rb"
+        },
+        {
+            "profile": "JBSnB",
+            "by": "account-2",
+            "until": "2026-08-24T23:59",
+            "note": "садові гойдалки-люльки ID1155ti репо goydalky-JBSnB"
+        }
+    ],
+    "rejected": [
+        {
+            "profile": "HBH9",
+            "reason": "instagram (shveja_v_dnipri) РІ РѕРїРёСЃС– РѕРіРѕР»РѕС€РµРЅРЅСЏ ID107Plm",
+            "date": "2026-08-23"
+        }
+    ]
 }
-
