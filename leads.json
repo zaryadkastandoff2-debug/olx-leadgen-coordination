@@ -335,6 +335,14 @@
       "ad": "ID110fHK",
       "account": "agent-pc2",
       "date": "2026-08-23"
+    },
+    {
+      "profile": "2nSzc",
+      "repo": "mangal-metal-2nSzc",
+      "niche": "мангал метал",
+      "ad": "ID112j1C",
+      "account": "agent-pc2",
+      "date": "2026-08-23"
     }
   ],
   "claims": [
@@ -343,12 +351,6 @@
       "by": "account-1-pc1",
       "until": "2026-08-25T23:59",
       "note": "меблі з акрилового каменю для ванни (MARSAN), профіль прихований, репо akrylovyi-kamin, отправка с аккаунта 2"
-    },
-    {
-      "profile": "2nSzc",
-      "by": "agent-pc2",
-      "until": "2026-08-25T23:59",
-      "note": "мангал метал ID112j1C репо mangal-metal-2nSzc"
     }
   ],
   "rejected": [
