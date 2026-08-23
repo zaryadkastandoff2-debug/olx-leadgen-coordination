@@ -1,0 +1,252 @@
+{
+ "contacts": [
+  {
+   "profile": "NCAP",
+   "repo": "kryvyi-kuhni",
+   "niche": "кухні Кривий Ріг",
+   "ad": "IDYIrWd",
+   "account": "account-1",
+   "date": "2026-08-22"
+  },
+  {
+   "profile": "16qVJ4",
+   "repo": "brovary-zvar",
+   "niche": "зварювання Бровари",
+   "ad": "IDYYfZI",
+   "account": "account-1",
+   "date": "2026-08-22"
+  },
+  {
+   "profile": "uzkjr",
+   "repo": "dnipro-shafy",
+   "niche": "шафи-купе Дніпро",
+   "ad": "IDXlhKW",
+   "account": "account-1",
+   "date": "2026-08-22"
+  },
+  {
+   "profile": "EJJgP",
+   "repo": "yaroslav-derevo",
+   "niche": "вироби з дерева",
+   "ad": "ID10KTFU",
+   "account": "account-1",
+   "date": "2026-08-22"
+  },
+  {
+   "profile": "3XUpk",
+   "repo": "chernivtsi-vorota",
+   "niche": "ворота Чернівці",
+   "ad": "IDXvfCP",
+   "account": "account-1",
+   "date": "2026-08-22"
+  },
+  {
+   "profile": "1McKT",
+   "repo": "kyiv-akvariumy",
+   "niche": "акваріуми Київ",
+   "ad": "ID116JBT",
+   "account": "account-1",
+   "date": "2026-08-22"
+  },
+  {
+   "profile": "13N1bf",
+   "repo": "kharkiv-divany",
+   "niche": "дивани Харків",
+   "ad": "ID10yZ6D",
+   "account": "account-1",
+   "date": "2026-08-22"
+  },
+  {
+   "profile": "2dNHco",
+   "repo": "zaporizhzhia-torty",
+   "niche": "торти Запоріжжя",
+   "ad": "",
+   "account": "account-1",
+   "date": "2026-08-22"
+  },
+  {
+   "profile": "1cW3np",
+   "repo": "kyiv-skhody",
+   "niche": "сходи Київ",
+   "ad": "IDTiHQo",
+   "account": "account-1",
+   "date": "2026-08-22"
+  },
+  {
+   "profile": "gev8x",
+   "repo": "rivne-granit",
+   "niche": "граніт Рівне",
+   "ad": "",
+   "account": "account-1",
+   "date": "2026-08-22"
+  },
+  {
+   "profile": "2hkS0M",
+   "repo": "mukachevo-kovka",
+   "niche": "ковка Мукачево",
+   "ad": "",
+   "account": "account-1",
+   "date": "2026-08-22"
+  },
+  {
+   "profile": "bQHRS",
+   "repo": "kyiv-stolyarka",
+   "niche": "столярка Київ",
+   "ad": "ID10KTFU",
+   "account": "account-1",
+   "date": "2026-08-22"
+  },
+  {
+   "profile": "farman",
+   "repo": "farman-loft",
+   "niche": "лофт-меблі",
+   "ad": "",
+   "account": "account-1",
+   "date": "2026-08-21"
+  },
+  {
+   "profile": "oYFvT",
+   "repo": "khmelnytskyi-pechi",
+   "niche": "печі Хмельницький",
+   "ad": "ID100gUR",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "iRml",
+   "repo": "obukhiv-chany",
+   "niche": "чани Обухів",
+   "ad": "IDX64Jv",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "2hmsS",
+   "repo": "odesa-plitka",
+   "niche": "плитка Одеса",
+   "ad": "IDSpMI7",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "Jfcnn",
+   "repo": "ternopil-paneli",
+   "niche": "панелі Тернопіль",
+   "ad": "ID1131zB",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "mSzay",
+   "repo": "rivne-altanky",
+   "niche": "альтанки Рівне",
+   "ad": "IDZV8as",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "Xn9l",
+   "repo": "samar-plitka",
+   "niche": "плитка Самар",
+   "ad": "ID10HrA9",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "Le7jD",
+   "repo": "zhytomyr-rolety",
+   "niche": "ролети Житомир (отказ, есть сайт)",
+   "ad": "IDXnVWk",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "8f2H",
+   "repo": "sumy-kupeli",
+   "niche": "купелі Суми",
+   "ad": "IDPbZjn",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "7l7jQ",
+   "repo": "zhytomyr-laznya",
+   "niche": "лазні Житомир",
+   "ad": "IDR1Q4K",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "iDeWu",
+   "repo": "boryspil-steli",
+   "niche": "натяжні стелі Бориспіль",
+   "ad": "ID10Zvpg",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "DC6x",
+   "repo": "lviv-pobutky",
+   "niche": "побутівки Львів",
+   "ad": "IDYpkr9",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "2htqLL",
+   "repo": "dereviani-dveri",
+   "niche": "двері дерев'яні",
+   "ad": "IDZ38s8",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "2gvOo5",
+   "repo": "kot-balkonchyky",
+   "niche": "балкончики для котів",
+   "ad": "ID10V9h8",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "ECxqc",
+   "repo": "uzhhorod-bani",
+   "niche": "бані Ужгород",
+   "ad": "IDVIqKi",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "WSDEh",
+   "repo": "mykulychyn-altanky",
+   "niche": "альтанки Микуличин",
+   "ad": "ID113akA",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "d7nJu",
+   "repo": "vynnyky-budynky",
+   "niche": "будинки Винники",
+   "ad": "IDVFrBY",
+   "account": "account-1",
+   "date": "2026-08-23"
+  },
+  {
+   "profile": "3oFnS",
+   "repo": "kremenchuk-vulyky",
+   "niche": "вулики Кременчук",
+   "ad": "IDTNxzj",
+   "account": "account-1",
+   "date": "2026-08-23"
+  }
+ ],
+ "claims": [
+  {
+   "profile": "HBH9",
+   "by": "account-1",
+   "until": "2026-08-24T23:59",
+   "note": "швея Дніпро, ID107Plm, кандидат на сайт dnipro-shveia"
+  }
+ ]
+}
