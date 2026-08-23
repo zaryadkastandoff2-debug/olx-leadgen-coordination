@@ -319,6 +319,14 @@
       "ad": "ID10qPUH",
       "account": "agent-pc2",
       "date": "2026-08-23"
+    },
+    {
+      "profile": "13Yizg",
+      "repo": "gvyntovi-skhody-13Yizg",
+      "niche": "гвинтові сходи дуб",
+      "ad": "ID10YGJW",
+      "account": "agent-pc2",
+      "date": "2026-08-23"
     }
   ],
   "claims": [
@@ -327,12 +335,6 @@
       "by": "account-1-pc1",
       "until": "2026-08-25T23:59",
       "note": "меблі з акрилового каменю для ванни (MARSAN), профіль прихований, репо akrylovyi-kamin, отправка с аккаунта 2"
-    },
-    {
-      "profile": "13Yizg",
-      "by": "agent-pc2",
-      "until": "2026-08-25T23:59",
-      "note": "гвинтові сходи дуб ID10YGJW репо gvyntovi-skhody-13Yizg"
     },
     {
       "profile": "avMPu",
