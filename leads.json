@@ -273,7 +273,20 @@
    "date": "2026-08-23"
   }
  ],
- "claims": [],
+ "claims": [
+  {
+   "profile": "1JmxL0",
+   "by": "agent-pc2",
+   "until": "2026-08-24T23:59",
+   "note": "меблі з нат деревини Київ, ад ID10ZQaQ, репо kyiv-mebli-nat-derevyny"
+  },
+  {
+   "profile": "2bG60j",
+   "by": "agent-pc2",
+   "until": "2026-08-24T23:59",
+   "note": "корпусні меблі на замовлення, ад ID112ZM8, репо kyiv-korpusni-mebli"
+  }
+ ],
  "rejected": [
   {
    "profile": "HBH9",
