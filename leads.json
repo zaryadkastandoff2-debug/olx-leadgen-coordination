@@ -241,7 +241,14 @@
    "date": "2026-08-23"
   }
  ],
- "claims": [],
+ "claims": [
+  {
+   "profile": "13L8TX",
+   "by": "account-1-pc1",
+   "until": "2026-08-24T23:59",
+   "note": "перетяжка бюті-меблів Дніпро, ад ID116RO6, репо dnipro-peretyazhka, отправка с аккаунта 2"
+  }
+ ],
  "rejected": [
   {
    "profile": "HBH9",
