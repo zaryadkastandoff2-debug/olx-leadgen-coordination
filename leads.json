@@ -239,15 +239,17 @@
    "ad": "IDTNxzj",
    "account": "account-1",
    "date": "2026-08-23"
+  },
+  {
+   "profile": "13L8TX",
+   "repo": "dnipro-peretyazhka",
+   "niche": "перетяжка б'юті-меблів Дніпро",
+   "ad": "ID116RO6",
+   "account": "account-2",
+   "date": "2026-08-23"
   }
  ],
  "claims": [
-  {
-   "profile": "13L8TX",
-   "by": "account-1-pc1",
-   "until": "2026-08-24T23:59",
-   "note": "перетяжка бюті-меблів Дніпро, ад ID116RO6, репо dnipro-peretyazhka, отправка с аккаунта 2"
-  },
   {
    "profile": "31sA",
    "by": "agent-pc2",
