@@ -295,6 +295,14 @@
    "ad": "IDZHYyY",
    "account": "account-2",
    "date": "2026-08-23"
+  },
+  {
+   "profile": "1fuR4i",
+   "repo": "derevo-smola",
+   "niche": "вироби з дерева з епоксидною смолою",
+   "ad": "IDZozj6",
+   "account": "account-2",
+   "date": "2026-08-23"
   }
  ],
  "claims": [
@@ -303,12 +311,6 @@
    "by": "account-1-pc1",
    "until": "2026-08-25T23:59",
    "note": "меблі з акрилового каменю для ванни (MARSAN), профіль прихований, репо akrylovyi-kamin, отправка с аккаунта 2"
-  },
-  {
-   "profile": "1fuR4i",
-   "by": "account-1-pc1",
-   "until": "2026-08-25T23:59",
-   "note": "дерево+епоксидна смола: столики/годинники/полиці, ад IDZozj6, репо derevo-smola"
   },
   {
    "profile": "1UPnD",
