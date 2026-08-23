@@ -241,12 +241,12 @@
    "date": "2026-08-23"
   }
  ],
- "claims": [
+ "claims": [],
+ "rejected": [
   {
    "profile": "HBH9",
-   "by": "account-1",
-   "until": "2026-08-24T23:59",
-   "note": "швея Дніпро, ID107Plm, кандидат на сайт dnipro-shveia"
+   "reason": "instagram (shveja_v_dnipri) в описі оголошення ID107Plm",
+   "date": "2026-08-23"
   }
  ]
 }
