@@ -279,15 +279,17 @@
                          "ad":  "ID10ZQaQ",
                          "account":  "agent-pc2",
                          "date":  "2026-08-23"
+                     },
+                     {
+                         "profile":  "2bG60j",
+                         "repo":  "kyiv-korpusni-mebli",
+                         "niche":  "корпусні меблі",
+                         "ad":  "ID112ZM8",
+                         "account":  "agent-pc2",
+                         "date":  "2026-08-23"
                      }
                  ],
     "claims":  [
-                   {
-                       "profile":  "2bG60j",
-                       "by":  "agent-pc2",
-                       "until":  "2026-08-24T23:59",
-                       "note":  "РєРѕСЂРїСѓСЃРЅС– РјРµР±Р»С– РЅР° Р·Р°РјРѕРІР»РµРЅРЅСЏ, Р°Рґ ID112ZM8, СЂРµРїРѕ kyiv-korpusni-mebli"
-                   },
                    {
                        "profile":  "AD:IDX0SjQ",
                        "by":  "account-1-pc1",
