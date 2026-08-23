@@ -297,7 +297,20 @@
    "date": "2026-08-23"
   }
  ],
- "claims": [],
+ "claims": [
+  {
+   "profile": "a79Y",
+   "by": "account-1-pc1",
+   "until": "2026-08-25T23:59",
+   "note": "шкіра: сумки/рюкзаки/аксесуари, ад IDZHYyY, репо shkira-viroby"
+  },
+  {
+   "profile": "1fuR4i",
+   "by": "account-1-pc1",
+   "until": "2026-08-25T23:59",
+   "note": "дерево+епоксидна смола: столики/годинники/полиці, ад IDZozj6, репо derevo-smola"
+  }
+ ],
  "rejected": [
   {
    "profile": "HBH9",
