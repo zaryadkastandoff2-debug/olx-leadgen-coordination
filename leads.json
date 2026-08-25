@@ -351,6 +351,14 @@
    "ad": "ID10BTVV",
    "account": "account-2",
    "date": "2026-08-23"
+  },
+  {
+   "profile": "lsqPc",
+   "repo": "rizblenyi-dekor",
+   "niche": "різьблений декор: іконостаси, аналої, хрести",
+   "ad": "IDJecFI",
+   "account": "account-2",
+   "date": "2026-08-25"
   }
  ],
  "claims": [
@@ -401,12 +409,6 @@
    "by": "account-2",
    "until": "2026-08-24T22:37",
    "note": "столярні вироби з дерева Тернопіль IDJzNcN репо ternopil-stolyarka"
-  },
-  {
-   "profile": "lsqPc",
-   "by": "account-2-pc1",
-   "until": "2026-08-26T23:59",
-   "note": "різьблений декор: іконостаси/аналої/хрести, ад IDJecFI, репо rizblenyi-dekor"
   },
   {
    "profile": "3JzkG",
