@@ -359,6 +359,14 @@
    "ad": "IDJecFI",
    "account": "account-2",
    "date": "2026-08-25"
+  },
+  {
+   "profile": "3JzkG",
+   "repo": "poltava-skinali",
+   "niche": "скіналі УФ-друк Полтава Склосфера",
+   "ad": "IDXOqu5",
+   "account": "account-2",
+   "date": "2026-08-25"
   }
  ],
  "claims": [
@@ -409,12 +417,6 @@
    "by": "account-2",
    "until": "2026-08-24T22:37",
    "note": "столярні вироби з дерева Тернопіль IDJzNcN репо ternopil-stolyarka"
-  },
-  {
-   "profile": "3JzkG",
-   "by": "account-2-pc1",
-   "until": "2026-08-26T23:59",
-   "note": "скіналі/скляні фартухи УФ-друк Полтава Склосфера, ад IDXOqu5, репо poltava-skinali"
   }
  ],
  "rejected": [
