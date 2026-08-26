@@ -367,6 +367,14 @@
    "ad": "IDXOqu5",
    "account": "account-2",
    "date": "2026-08-25"
+  },
+  {
+   "profile": "1cubPl",
+   "repo": "nozhi-ruchnoi-roboty",
+   "niche": "складні ножі ручної роботи",
+   "ad": "ID10hkkD",
+   "account": "account-2",
+   "date": "2026-08-26"
   }
  ],
  "claims": [
@@ -417,12 +425,6 @@
    "by": "account-2",
    "until": "2026-08-24T22:37",
    "note": "столярні вироби з дерева Тернопіль IDJzNcN репо ternopil-stolyarka"
-  },
-  {
-   "profile": "1cubPl",
-   "by": "account-2-pc1",
-   "until": "2026-08-27T23:59",
-   "note": "ножі складні ручної роботи, ад ID10hkkD, репо nozhi-ruchnoi-roboty"
   },
   {
    "profile": "6cjDv",
