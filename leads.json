@@ -392,6 +392,14 @@
    "account": "account-2",
    "date": "2026-08-23",
    "note": "відновлено: відправка була 23.08, запис загубився при мержах"
+  },
+  {
+   "profile": "3aNTq",
+   "repo": "irpin-shafi",
+   "niche": "шафи/гардеробні Ірпінь-Буча",
+   "ad": "ID113JAm",
+   "account": "account-2",
+   "date": "2026-09-02"
   }
  ],
  "claims": [
@@ -436,12 +444,6 @@
    "by": "account-2",
    "until": "2026-08-24T22:37",
    "note": "столярні вироби з дерева Тернопіль IDJzNcN репо ternopil-stolyarka"
-  },
-  {
-   "profile": "3aNTq",
-   "by": "account-2-pc1",
-   "until": "2026-09-03T23:59",
-   "note": "шафи/гардеробні Ірпінь-Буча виробник, ад ID113JAm, репо irpin-shafi"
   },
   {
    "profile": "8LHrc",
