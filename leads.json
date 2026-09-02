@@ -433,6 +433,18 @@
    "by": "account-2",
    "until": "2026-08-24T22:37",
    "note": "столярні вироби з дерева Тернопіль IDJzNcN репо ternopil-stolyarka"
+  },
+  {
+   "profile": "3aNTq",
+   "by": "account-2-pc1",
+   "until": "2026-09-03T23:59",
+   "note": "шафи/гардеробні Ірпінь-Буча виробник, ад ID113JAm, репо irpin-shafi"
+  },
+  {
+   "profile": "8LHrc",
+   "by": "account-2-pc1",
+   "until": "2026-09-03T23:59",
+   "note": "стільниці/сходи/щит масив Тернопіль, ад ID10ujTf, репo ternopil-masyv"
   }
  ],
  "rejected": [
