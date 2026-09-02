@@ -375,6 +375,14 @@
    "ad": "ID10hkkD",
    "account": "account-2",
    "date": "2026-08-26"
+  },
+  {
+   "profile": "6cjDv",
+   "repo": "irpin-navisy",
+   "niche": "навіси для авто Ірпінь",
+   "ad": "IDPPYas",
+   "account": "account-2",
+   "date": "2026-09-02"
   }
  ],
  "claims": [
@@ -425,12 +433,6 @@
    "by": "account-2",
    "until": "2026-08-24T22:37",
    "note": "столярні вироби з дерева Тернопіль IDJzNcN репо ternopil-stolyarka"
-  },
-  {
-   "profile": "6cjDv",
-   "by": "account-2-pc1",
-   "until": "2026-08-27T23:59",
-   "note": "навіси для авто Ірпінь, ад IDPPYas, репо irpin-navisy"
   }
  ],
  "rejected": [
