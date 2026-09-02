@@ -440,6 +440,15 @@
    "ad": "ID113PGb",
    "account": "account-2",
    "date": "2026-09-02"
+  },
+  {
+   "profile": "1ao2w0",
+   "repo": "stoly-masyv-kyiv",
+   "niche": "столи горіх/ясен/дуб Київ",
+   "ad": "IDYrdSf",
+   "account": "account-2",
+   "date": "2026-09-02",
+   "note": "ДУБЛЬ: пішло 2 однакових повідомлення через баг Enter-дожимання. БІЛЬШЕ НЕ ПИСАТИ НІКОЛИ."
   }
  ],
  "claims": [
@@ -520,12 +529,6 @@
    "by": "account-2-pc1",
    "until": "2026-09-04T23:59",
    "note": "меблі лофт на замовлення (столи/стелажі/барні стійки/ліжка), ад ID11b729, репо mebli-loft-kyiv"
-  },
-  {
-   "profile": "1ao2w0",
-   "by": "account-2-pc1",
-   "until": "2026-09-04T23:59",
-   "note": "столи горіх/ясень/дуб від виробника Київ, ад IDYrdSf, репо stoly-masyv-kyiv"
   },
   {
    "profile": "zpu5f",
