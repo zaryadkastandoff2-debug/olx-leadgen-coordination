@@ -466,6 +466,18 @@
    "by": "account-2-pc1",
    "until": "2026-09-03T23:59",
    "note": "акваріуми та водоспади під замовлення (в т.ч. промислові для устриць), ад IDT3c1J, репо akariumy-vodospady"
+  },
+  {
+   "profile": "1KrjZ",
+   "by": "account-2-pc1",
+   "until": "2026-09-03T23:59",
+   "note": "металеві двері/вироби з металу Черкаси, ад IDv4sAg, репо cherkasy-dveri"
+  },
+  {
+   "profile": "1gIis9",
+   "by": "account-2-pc1",
+   "until": "2026-09-03T23:59",
+   "note": "вхідні двері до 5 днів, ад ID10lLa4, репо dveri-5dniv"
   }
  ],
  "rejected": [
