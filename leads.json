@@ -492,6 +492,18 @@
    "by": "account-2-pc1",
    "until": "2026-09-03T23:59",
    "note": "вхідні двері до 5 днів, ад ID10lLa4, репо dveri-5dniv"
+  },
+  {
+   "profile": "1JB2h4",
+   "by": "account-2-pc1",
+   "until": "2026-09-04T23:59",
+   "note": "садові меблі/гойдалки/альтанки/перголи Шепетівка, ад IDXdoIa, репо shepetivka-sadmebli"
+  },
+  {
+   "profile": "18lKCD",
+   "by": "account-2-pc1",
+   "until": "2026-09-04T23:59",
+   "note": "вершки на криницю/гойдалки/мангали/альтанки ковка+дерево, ад ID113PGb, репо krynitsya-vershky"
   }
  ],
  "rejected": [
