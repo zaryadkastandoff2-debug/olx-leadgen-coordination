@@ -484,6 +484,12 @@
    "by": "account-2-pc1",
    "until": "2026-09-03T23:59",
    "note": "вхідні двері до 5 днів, ад ID10lLa4, репо dveri-5dniv"
+  },
+  {
+   "profile": "160g01",
+   "by": "account-2-pc1",
+   "until": "2026-09-03T23:59",
+   "note": "мангальні комплекси Вінниця, ад ID106fsH, репо vinnytsia-mangaly"
   }
  ],
  "rejected": [
