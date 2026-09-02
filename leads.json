@@ -416,6 +416,14 @@
    "ad": "ID10mXPm",
    "account": "account-2",
    "date": "2026-09-02"
+  },
+  {
+   "profile": "160g01",
+   "repo": "vinnytsia-mangaly",
+   "niche": "мангальні комплекси та барбекю Вінниця",
+   "ad": "ID106fsH",
+   "account": "account-2",
+   "date": "2026-09-02"
   }
  ],
  "claims": [
@@ -484,12 +492,6 @@
    "by": "account-2-pc1",
    "until": "2026-09-03T23:59",
    "note": "вхідні двері до 5 днів, ад ID10lLa4, репо dveri-5dniv"
-  },
-  {
-   "profile": "160g01",
-   "by": "account-2-pc1",
-   "until": "2026-09-03T23:59",
-   "note": "мангальні комплекси Вінниця, ад ID106fsH, репо vinnytsia-mangaly"
   }
  ],
  "rejected": [
