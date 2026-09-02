@@ -400,6 +400,14 @@
    "ad": "ID113JAm",
    "account": "account-2",
    "date": "2026-09-02"
+  },
+  {
+   "profile": "8LHrc",
+   "repo": "ternopil-masyv",
+   "niche": "стільниці/сходи/щит масив Тернопіль",
+   "ad": "ID10ujTf",
+   "account": "account-2",
+   "date": "2026-09-02"
   }
  ],
  "claims": [
@@ -444,12 +452,6 @@
    "by": "account-2",
    "until": "2026-08-24T22:37",
    "note": "столярні вироби з дерева Тернопіль IDJzNcN репо ternopil-stolyarka"
-  },
-  {
-   "profile": "8LHrc",
-   "by": "account-2-pc1",
-   "until": "2026-09-03T23:59",
-   "note": "стільниці/сходи/щит масив Тернопіль, ад ID10ujTf, репo ternopil-masyv"
   },
   {
    "profile": "AD:ID10mXPm",
