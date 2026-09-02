@@ -424,6 +424,22 @@
    "ad": "ID106fsH",
    "account": "account-2",
    "date": "2026-09-02"
+  },
+  {
+   "profile": "1JB2h4",
+   "repo": "shepetivka-sadmebli",
+   "niche": "садові меблі/гойдалки/перголи Шепетівка",
+   "ad": "IDXdoIa",
+   "account": "account-2",
+   "date": "2026-09-02"
+  },
+  {
+   "profile": "18lKCD",
+   "repo": "krynitsya-vershky",
+   "niche": "вершки на криницю/гойдалки/мангали",
+   "ad": "ID113PGb",
+   "account": "account-2",
+   "date": "2026-09-02"
   }
  ],
  "claims": [
@@ -492,18 +508,6 @@
    "by": "account-2-pc1",
    "until": "2026-09-03T23:59",
    "note": "вхідні двері до 5 днів, ад ID10lLa4, репо dveri-5dniv"
-  },
-  {
-   "profile": "1JB2h4",
-   "by": "account-2-pc1",
-   "until": "2026-09-04T23:59",
-   "note": "садові меблі/гойдалки/альтанки/перголи Шепетівка, ад IDXdoIa, репо shepetivka-sadmebli"
-  },
-  {
-   "profile": "18lKCD",
-   "by": "account-2-pc1",
-   "until": "2026-09-04T23:59",
-   "note": "вершки на криницю/гойдалки/мангали/альтанки ковка+дерево, ад ID113PGb, репо krynitsya-vershky"
   },
   {
    "profile": "AD:IDPgSeD",
