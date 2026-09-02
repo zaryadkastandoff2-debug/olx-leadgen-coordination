@@ -408,6 +408,14 @@
    "ad": "ID10ujTf",
    "account": "account-2",
    "date": "2026-09-02"
+  },
+  {
+   "profile": "AD:ID10mXPm",
+   "repo": "lift-lizhko",
+   "niche": "м'які ліжка з підйомним механізмом (профіль прихований)",
+   "ad": "ID10mXPm",
+   "account": "account-2",
+   "date": "2026-09-02"
   }
  ],
  "claims": [
@@ -452,12 +460,6 @@
    "by": "account-2",
    "until": "2026-08-24T22:37",
    "note": "столярні вироби з дерева Тернопіль IDJzNcN репо ternopil-stolyarka"
-  },
-  {
-   "profile": "AD:ID10mXPm",
-   "by": "account-2-pc1",
-   "until": "2026-09-03T23:59",
-   "note": "м'яке ліжко з підйомним механізмом під замовлення, профіль прихований, репо lift-lizhko"
   },
   {
    "profile": "uuBmz",
